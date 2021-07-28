@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC calculator</string>
+    <string name="imc_calculator">IMC Calculator</string>
+    <string name="peso">Peso</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="gustavo_da_hora">Gustavo da Hora</string>
+</resources>
